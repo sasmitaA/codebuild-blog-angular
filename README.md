@@ -1,6 +1,8 @@
 # MyAngularProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6. 
+
+Original Author [ Emre Yilmaz](https://www.linkedin.com/in/emre-yilmaz-shikisoft/)
 
 ## Development server
 
