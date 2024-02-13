@@ -11,7 +11,7 @@ phases:
       - npm install --legacy-peer-deps
   build:
     commands:
-      - ng build --prod
+      - ng build --configuration production
     finally:
       - echo final block echo
 
